@@ -1,2 +1,4 @@
 # merge-conflict
 adding line-1
+adding line-3
+
